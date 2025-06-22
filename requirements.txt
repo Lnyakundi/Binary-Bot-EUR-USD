@@ -1,0 +1,7 @@
+python-deriv-api>=0.1.6
+websockets
+ta
+fastapi[all]
+uvicorn
+python-dotenv
+pytest
